@@ -1,8 +1,3 @@
-<!-- ============================================================
-     GRUVBOX — id 09
-     Placeholder sven-25 gets substituted at deploy time.
-     ============================================================ -->
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:d65d0e,50:b57614,100:98971a&height=270&section=header&text=sven-25&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Warm,+earthy,+old-school&descSize=18&descColor=ffffff99&descAlignY=52"/>
